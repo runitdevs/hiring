@@ -7,8 +7,8 @@
 
 # Role Responsibilities
   This is a fully remote job and while your physical location can be anywhere, the role may require you to travel some to USA or Costa Rica if you're not located in either    of these locations. A candidate joining stepping in as the Head of Development will be responsible for work such as:
-    * Proposing directions to improve operational processes and methodologies
-    * Discuss vision and strategy with leads across all departments
+    - Proposing directions to improve operational processes and methodologies
+    - Discuss vision and strategy with leads across all departments
     - Build out a team / hire more developers when necessary
     - Building complex data models supporting operational mission critical workflows and data management
     - Creating internal and external APIs to support both data and video
