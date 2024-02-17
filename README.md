@@ -1,5 +1,4 @@
 # Open Position
-  Company: RUNIT Technologies
   Role: Head of Development
 
 # Company Information
