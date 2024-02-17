@@ -20,7 +20,7 @@
 # Key Attributes
   We're considering candidates with the following profiles:
     - Advanced Elixir, C# skills (latest version of .NET), Angular 
-    - React, Python 
+    - JavaScript technologies (React, TypeScript)
     - Experience working with high volume databases
     - Extensive software engineering background - 8 years experience or more
     - Previous work experience in Sportsbook, iGaming, or Casino industry
