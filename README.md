@@ -15,7 +15,7 @@ We seek a candidate that can build out and lead a team of developers and to crea
 
 # Role Responsibilities
 
-This is a fully remote job and while your physical location can be anywhere, the role may require you to travel some to USA or Costa Rica if you're not located in either of these locations. 
+This is a fully remote job. Although your physical location can be anywhere, the role may require you to travel some to USA or Costa Rica if you're not located in either of these countries. 
 
 A candidate joining stepping in as the Head of Development will be responsible for work such as:
 
@@ -69,6 +69,6 @@ We're considering candidates with the following profiles:
 
 # Compensation
 
-Monthly salary plus bonuses based on meeting/exceeding clearly defined performance objectives.
+Monthly salary plus equity plus bonuses based on meeting/exceeding clearly defined performance objectives.
 
 - Base Pay Range: $150,000 - $175,000
